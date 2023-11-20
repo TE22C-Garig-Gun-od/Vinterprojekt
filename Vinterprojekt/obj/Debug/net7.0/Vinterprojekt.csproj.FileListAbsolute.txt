@@ -1,0 +1,14 @@
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.AssemblyInfoInputs.cache
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.AssemblyInfo.cs
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.csproj.CoreCompileInputs.cache
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\bin\Debug\net7.0\Vinterprojekt.exe
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\bin\Debug\net7.0\Vinterprojekt.deps.json
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\bin\Debug\net7.0\Vinterprojekt.runtimeconfig.json
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\bin\Debug\net7.0\Vinterprojekt.dll
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\bin\Debug\net7.0\Vinterprojekt.pdb
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.dll
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\refint\Vinterprojekt.dll
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.pdb
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\Vinterprojekt.genruntimeconfig.cache
+c:\Users\Gunod.garig\Documents\Programmering\Vinterprojekt\Vinterprojekt\obj\Debug\net7.0\ref\Vinterprojekt.dll
